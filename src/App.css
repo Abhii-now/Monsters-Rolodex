@@ -31,7 +31,7 @@
 h1 {
   font-family: "Bigelow Rules";
   font-size: 72px;
-  color: black;
+  color: black; 
 }
 
 @keyframes App-logo-spin {
